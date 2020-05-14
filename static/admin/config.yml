@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: mcwema/gatsby-netlify-okta
+  repo: mcwema/gatsby-okta-netlify
 media_folder: static/assets
 public_folder: assets
 collections:
